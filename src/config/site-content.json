@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "Tsinho.",
-		"description": "Tsinho的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
 		"username": "Tsinho."
 	},
 	"theme": {
@@ -43,22 +43,22 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "link",
-			"value": "点击链接加入群聊【🀄砖站】：https://qm.qq.com/q/QWITEsiBuQ",
-			"label": "官方群聊",
+			"type": "github",
+			"value": "https://github.com/yysuni",
+			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "qq",
-			"value": "3496454360",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/2427311675422382",
 			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "tsinhos@qq.com",
+			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
 		}
